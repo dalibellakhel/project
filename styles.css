@@ -1,0 +1,33 @@
+.container1 {
+    display: flex; 
+    font-size: 2em;
+    font-family: Work Sans,Arial,sans-serif;
+    justify-content: space-around;
+    color:lightblue ;
+    border: 5px double orange
+}
+body{background-color: lightyellow}
+
+    .container2{font-family: 'Courier New', Courier, monospace;
+display: flex;
+justify-content: space-between;
+        
+    color: red;
+   
+
+}
+    .blox{display: block;}
+   .container3{
+    column-gap: 40px;
+        column-count: 1;
+        column-rule-style: solid;
+        column-rule-width: 1px;
+        column-rule-color: lightcoral;
+        column-width: 100px;
+        
+      }
+      container{display: flex;
+    justify-content: space-around;
+    }
+
+   
